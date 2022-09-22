@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Batom, a Laboratory Scientist turned data analyst 
-- 👀 I’m interested in life
+- 👋 Hi, I’m Batom, a Laboratory Scientist/Data analyst 
+- 👀 I’m interested in scientific research, music, movies
 - 🌱 I’m currently learning Time series and forecasting with R
 - 💞️ I’m looking to collaborate on impactful projects
-- 📫 How to reach me batomsy@gmail.com
-- 🤓 You can check out some of my projects https://batomsy.github.io/#
+- 🤓 You can check out some of my projects or reach me :
+     https://batomsy.github.io/# 
+
+    https://www.linkedin.com/in/batombari-siedoma-b6b893106/
+  
+     https://mobile.twitter.com/batomsy
+ 
 
 <!---
 batomsy/batomsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
