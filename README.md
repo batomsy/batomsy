@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @batomsy
-- 👀 I’m interested in SQL and R programming
-- 🌱 I’m currently learning SQL and R programming
-- 💞️ I’m looking to collaborate on educative and impactful projects
+- 👋 Hi, I’m Batom, a Laboratory Scientist turned data analyst 
+- 👀 I’m interested in life
+- 🌱 I’m currently learning Time series and forecasting with R
+- 💞️ I’m looking to collaborate on impactful projects
 - 📫 How to reach me batomsy@gmail.com
+- 🤓 You can check out some of my projects https://batomsy.github.io/#
 
 <!---
 batomsy/batomsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
